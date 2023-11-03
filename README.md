@@ -1,4 +1,3 @@
-NEW README
 <a id="readme-top"></a>
 
 <!-- TABLE OF CONTENTS -->
@@ -102,7 +101,9 @@ All you need is a browser (to view/interact) and a text editor (to modify).
 
 ## Contributing
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".Thanks for playing!
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+
+Thanks for playing!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
